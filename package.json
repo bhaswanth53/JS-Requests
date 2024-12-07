@@ -1,0 +1,20 @@
+{
+  "name": "requests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "lumina-form-validator": "^1.1.2"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.49"
+  }
+}
